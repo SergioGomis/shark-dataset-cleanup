@@ -1,4 +1,7 @@
+
 # Pandas Dataset Cleanup
+
+![Shark Attack!](https://github.com/SergioGomis/shark-dataset-cleanup/blob/master/src/shark.jpg)
 
 ## Introducción
 Este repositorio es un proyecto que pertenece al bootcamp de Data Analytics de Ironhack Madrid.
