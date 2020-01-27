@@ -1,4 +1,5 @@
 from datetime import datetime
+import re
 
 def paso_a_fecha(text):
     for fmt in ('%d-%b-%y', '%d-%b-%Y', '%Y.%m.%d'):
@@ -7,3 +8,6 @@ def paso_a_fecha(text):
         except ValueError:
             pass
     return None
+
+
+
